@@ -1,0 +1,105 @@
+batch size : 1024
+first layer size : 512
+activation : relu
+accuracy : 0.932013750076294
+loss : 0.1594027876853943
+
+--------------------------------------------
+
+batch size : 1024
+first layer size : 256
+activation : relu
+accuracy : 0.9426450133323669
+loss : 0.14372222125530243
+
+--------------------------------------------
+
+batch size : 1024
+first layer size : 128
+activation : relu
+accuracy : 0.963514506816864
+loss : 0.1352178156375885
+
+--------------------------------------------
+
+batch size : 512
+first layer size : 512
+activation : relu
+accuracy : 0.05083974450826645
+loss : 1.1166894435882568
+
+--------------------------------------------
+
+batch size : 512
+first layer size : 256
+activation : relu
+accuracy : 0.34353023767471313
+loss : 0.7710855007171631
+
+--------------------------------------------
+
+batch size : 512
+first layer size : 128
+activation : relu
+accuracy : 0.34243401885032654
+loss : 0.7746772170066833
+
+--------------------------------------------
+
+batch size : 256
+first layer size : 512
+activation : relu
+accuracy : 0.9823364019393921
+loss : 0.054632771760225296
+
+--------------------------------------------
+
+batch size : 256
+first layer size : 256
+activation : relu
+accuracy : 0.029577231034636497
+loss : 1.0997624397277832
+
+--------------------------------------------
+
+batch size : 256
+first layer size : 128
+activation : relu
+accuracy : 0.9810540080070496
+loss : 0.07398700714111328
+
+--------------------------------------------
+
+batch size : 128
+first layer size : 512
+activation : relu
+accuracy : 0.025316456332802773
+loss : 1.0989686250686646
+
+--------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+--------------------------------------------
+batch size : 1024
+activation : relu
+accuracy : 0.9374948143959045
+loss : 0.1799791306257248
+
+--------------------------------------------
+
+batch size : 512
+activation : relu
+accuracy : 0.3400554358959198
+loss : 0.7827790379524231
+
+--------------------------------------------
+
